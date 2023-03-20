@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ndahnerius
-- 👀 I’m interested in web development
+- 👀 I’m interested in Frontend web development
 - 🌱 I’m currently learning pyhton
-- 💞️ I’m looking to collaborate on web designing
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me ndahnereuskenkoh@gmail.com
 
 <!---
